@@ -4,6 +4,6 @@
 
 The multimodal knowledge graph data used in this project can be downloaded from the following repository:
 
-- [MKGformer Dataset](https://github.com/zjunlp/MKGformer)
+- [MKGformer](https://github.com/zjunlp/MKGformer)
 
 Please follow the instructions in that repository for downloading and preprocessing the data.
